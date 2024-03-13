@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Actor2_5","characterIndex":4,"characterName":"Actor2","classId":4,"equips":[2,0,0,4,0],"faceIndex":4,"faceName":"Actor2","traits":[{"code":11,"dataId":1,"value":1},{"code":41,"dataId":1,"value":1},{"code":41,"dataId":2,"value":1},{"code":31,"dataId":9,"value":1},{"code":11,"dataId":9,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Bob","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor2_4","characterIndex":3,"characterName":"Actor2","classId":9,"equips":[7,0,66,20,0],"faceIndex":3,"faceName":"Actor2","traits":[{"code":11,"dataId":8,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Ryn","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"Nature","classId":10,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[{"code":52,"dataId":3,"value":1},{"code":52,"dataId":2,"value":1},{"code":41,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Butterdog","nickname":"B-dawg","note":"","profile":"The dgo with the butter on him."}
+]
